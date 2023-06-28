@@ -4,4 +4,12 @@
 
 header {
     display: flex;
+    justify-content: center;
+}
+
+header, ul {
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    padding: 5px;
 }
