@@ -3,13 +3,14 @@
 }
 
 body {
-    background-color: #f48eb8;
+    background-color: beige;
     color: white;
 }
 
 h1 {
     margin: 15px 0 0 0;
     font-size: 30px;
+    color: #f48eb8;
 }
 
 h2 {
@@ -45,4 +46,5 @@ header ul {
 footer {
     text-align: center;
     padding-top: 30px;
+    color: #f48eb8;
 }
