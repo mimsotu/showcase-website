@@ -11,6 +11,7 @@ h1 {
     margin: 15px 0 0 0;
     font-size: 30px;
     color: #f48eb8;
+    font-weight: 900;
 }
 
 h2 {
@@ -41,6 +42,7 @@ header ul {
     padding: 10px;
     border-radius: 15px;
     background-color: #a0c565;
+    max-width: 800px;
 }
 
 footer {
@@ -56,11 +58,22 @@ footer {
 }
 
 #about img {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
+}
+
+.section-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
 }
 
 .section h2 {
     display: flex;
     flex-basis: 100%;
+}
+
+p {
+    text-align: center;
 }
