@@ -40,7 +40,7 @@ header ul {
 }
 
 .section {
-    padding: 10px;
+    padding: 15px;
     border-radius: 15px;
     background-color: #a0c565;
     max-width: 800px;
@@ -50,6 +50,9 @@ footer {
     text-align: center;
     padding-top: 30px;
     color: #f48eb8;
+    padding-top: 0;
+    padding-bottom: 50px;
+    font-weight: 600;
 }
 
 #about {
@@ -75,6 +78,7 @@ footer {
 .section h2 {
     display: flex;
     flex-basis: 100%;
+    padding: 10px;
 }
 
 p {
