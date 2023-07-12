@@ -6,6 +6,7 @@ body {
     background-color: beige;
     color: white;
     margin: 0;
+    overflow-x: hidden;
 }
 
 h1 {
